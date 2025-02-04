@@ -1,0 +1,12 @@
+1. Entry Controlled Loop
+    a. while Loop
+        while(condition){
+            statement 1
+            statement 2
+            ...
+            statement N
+        }
+    b. for Loop
+    c. Enhanced for loop
+2. Exit Controlled Loop
+    a. do-while loop

@@ -1,0 +1,2 @@
+What is an error ?
+What is an exception ?

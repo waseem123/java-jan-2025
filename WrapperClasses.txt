@@ -1,0 +1,22 @@
+Java is Object oriented programming language. At the other hand it also 
+works with Primitive Datatypes. But to make the value fully functional in
+object oriented format Java has a veriety of various classes for 
+data convrsion. We call it as Wrapper Class
+
+1. int     -> Integer
+2. double  -> Double
+3. short   -> Short
+4. float   -> Float
+5. boolean -> Boolean
+6. long    -> Long
+7. char    -> Character
+....
+
+All wrapper classes belong to java.lang package.
+
+Why do we use wrapper?
+ 1. To store the objects in multiple quantity where non primitives are required.
+ 2. Data Manipulation - to maintain proper synchronisation of the data
+ 3. To perform Autoboxing and Unboxing - Java automatically converts primitives to objects(Autoboxing)
+                    and
+    non primitives to primitives (Unboxing)
